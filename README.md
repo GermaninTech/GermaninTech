@@ -1,4 +1,6 @@
-![Kiran1689 Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.seoxan.es%2Farticulo%2Fprogramador-web-caracteristicas-y-conocimientos&psig=AOvVaw10kNg72uSM0hLN0ff42DLF&ust=1749228790417000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODujZvf2o0DFQAAAAAdAAAAABAE)
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
 <!--
 **GermaninTech/GermaninTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
