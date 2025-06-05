@@ -1,4 +1,4 @@
-## Hi there 👋
+![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
 
 <!--
 **GermaninTech/GermaninTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
