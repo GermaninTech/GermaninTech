@@ -1,4 +1,4 @@
-![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![Kiran1689 Banner Image]("C:\Users\German\Downloads\GERMANINTECH.png")
 
 <!--
 **GermaninTech/GermaninTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
